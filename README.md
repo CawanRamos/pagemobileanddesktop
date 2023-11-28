@@ -1,9 +1,19 @@
-<h2>Projeto de uma página com modo mobile e desktop
-</h2> 
+<h1TOM’S JAZZ SCHOOL</h1>
 
-<p> Este projeto foi feito com intuito de treinar os meus conhecimentos adquiridos nos 3 stages da formação Explorer da Rocketseat </p>
+## 💻 Tecnologias
 
-<p> Encontrei o vídeo abaixo no Youtube com um projeto no Figma e construí o projeto por conta própria sem analisar o vídeo, para testar os meus conhecimentos adquiridos</p>
+Realizei o desenvolvimento do projeto com as seguintes tecnologias:
 
-<p>https://www.youtube.com/watch?v=Wo7UnH8TYbc&t=582s</p>
+- HTML
+- CSS
+- Git e Github
+- Figma
 
+## 📝 Projeto
+
+Este projeto é uma página responsiva de uma escola de música, ele fpo desenvolvido com o intuito de treinar os conhecimentos adquiridos na formação Explorer da Rocketseat.
+    
+## 🎨 Layout 
+    
+- O layout utilizado para desenvolvimento do projeto foi localizado em buscas por inspirações no figma
+- Você pode acessar pelo link: https://www.figma.com/file/76GJ4uK7PyKeAo6dcpVyjA/Tom's-Jazz-School?node-id=32%3A3685&mode=dev
