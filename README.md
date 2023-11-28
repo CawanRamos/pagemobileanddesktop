@@ -1,4 +1,4 @@
-<h1TOM’S JAZZ SCHOOL</h1>
+<h1>TOM’S JAZZ SCHOOL</h1>
 
 ## 💻 Tecnologias
 
