@@ -11,7 +11,7 @@ Realizei o desenvolvimento do projeto com as seguintes tecnologias:
 
 ## 📝 Projeto
 
-Este projeto é uma página responsiva de uma escola de música, ele fpo desenvolvido com o intuito de treinar os conhecimentos adquiridos na formação Explorer da Rocketseat.
+Este projeto é uma página responsiva de uma escola de música, ele foi desenvolvido com o intuito de treinar os conhecimentos adquiridos na formação Explorer da Rocketseat.
     
 ## 🎨 Layout 
     
