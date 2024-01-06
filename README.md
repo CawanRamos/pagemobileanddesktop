@@ -12,6 +12,7 @@ Realizei o desenvolvimento do projeto com as seguintes tecnologias:
 ## 📝 Projeto
 
 Este projeto é uma página responsiva de uma escola de música, ele foi desenvolvido com o intuito de treinar os conhecimentos adquiridos na formação Explorer da Rocketseat.
+- Vocë pode acessar o projeot finalizado pelo link: https://cawanramos.github.io/pagemobileanddesktop/
     
 ## 🎨 Layout 
     
